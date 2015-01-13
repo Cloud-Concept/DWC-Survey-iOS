@@ -1,0 +1,193 @@
+/* 
+  File.strings
+  EstimationCalculator
+
+  Created by Mina Zaklama on 9/3/13.
+  Copyright (c) 2013 ZAPP Island. All rights reserved.
+*/
+
+"app_name" = "DWC Survey";
+
+/* Submit button */
+"submit" = "إتمام";
+
+/* Next button */
+"next" = "التالي";
+
+/* Back button */
+"back" = "رجوع";
+
+/* Footer text in questions pages */
+"questions_footer" = "للاستفسارات والاقتراحات، يرجى التواصل معنا على feedback@dwc.ae  أو +97148141111";
+
+/* Ok */
+"ok" = "حسنا";
+
+/* Error messgae when Single Select Question */
+"single_select_error_message" = "حدد خيارا من أجل المضي قدما إلى السؤال التالي";
+
+/* Error messgae when Single Select Question is last question*/
+"single_select_error_message_last_question" = "حدد خيارا من أجل إتمام الاستطلاع";
+
+/* Error messgae when Text Question */
+"text_error_message" = "قدم إجابة من أجل المضي قدما إلى السؤال التالي";
+
+/* Error messgae when Text Question is last question */
+"text_error_message_last_question" = "قدم إجابة من أجل إتمام الاستطلاع";
+
+/* Error Title */
+"error" = "خطأ";
+
+/* Q1, Q2, .... */
+"question_number_header" = "س%d";
+
+/* Registered Compnay Title */
+"registered_company_title" = "REGISTERED";
+
+/* Non Registered Compnay Title */
+"non_registered_company_title" = "NON-REGISTERED";
+
+/* Text for Company Name label in Select Company popover */
+"company_name_label" = "Company Name:";
+
+/* Text for Company Phone label in Select Company popover */
+"person_name_label" = "Person Name:";
+
+/* Text for Company Email label in Select Company popover */
+"designation_label" = "Designation:";
+
+/* Placeholder for Company Name text field in Select Company popover */
+"company_name_placeholder" = "Enter Company Name";
+
+/* Placeholder for Company Phone text field in Select Company popover */
+"person_name_placeholder" = "Enter Person Name";
+
+/* Placeholder for Company Email text field in Select Company popover */
+"designation_placeholder" = "Enter Designation";
+
+/* Select button in Select Company popover */
+"select" = "SELECT";
+
+/* Start Survey Button first line */
+"start_survey_button_line_one" = "YOUR FEEDBACK IS IMPORTANT TO US";
+
+/* Start Survey Button second line */
+"start_survey_button_line_two" = "CLICK HERE TO START SURVEY";
+
+/* Survey Name Not Entered Error Title */
+"survey_name_error_title" = "Survey Name Error";
+
+/* Survey Name Not Entered Error Message */
+"survey_name_error_msg" = "Please enter the Survey Name you want to take in the settings.";
+
+/* No Questions found Error Title */
+"no_questions_error_title" = "No Questions Found";
+
+/* No Questions found Error Message */
+"no_questions_error_msg" = "No questions found for this survey name.";
+
+
+/* Question One */
+"question_1" = "How long did you have to wait before speaking to a representative?";
+
+/* Question One, Answer One */
+"question_1__answer_1" = "Less than 5 minutes";
+
+/* Question One, Answer Two */
+"question_1__answer_2" = "Less than 10 minutes";
+
+/* Question One, Answer Three */
+"question_1__answer_3" = "Less than 30 minutes";
+
+/* Question One, Answer Four */
+"question_1__answer_4" = "More than 30 minutes";
+
+/* Question One, Answer Five */
+"question_1__answer_5" = "";
+
+
+/* Question Two */
+"question_2" = "How did you feel about the length of time you waited?";
+
+/* Question Two, Answer One */
+"question_2__answer_1" = "Very Satisfied";
+
+/* Question Two, Answer Two */
+"question_2__answer_2" = "Satisfied";
+
+/* Question Two, Answer Three */
+"question_2__answer_3" = "Neutral";
+
+/* Question Two, Answer Four */
+"question_2__answer_4" = "Dissatisfied";
+
+/* Question Two, Answer Five */
+"question_2__answer_5" = "Very Dissatisfied";
+
+
+/* Question Three */
+"question_3" = "How do you rate the service compared to your prior visit?";
+
+/* Question Three, Answer One */
+"question_3__answer_1" = "Better";
+
+/* Question Three, Answer Two */
+"question_3__answer_2" = "About the same";
+
+/* Question Three, Answer Three */
+"question_3__answer_3" = "Worse";
+
+/* Question Three, Answer Four */
+"question_3__answer_4" = "N/A (if first visit)";
+
+/* Question Three, Answer Five */
+"question_3__answer_5" = "";
+
+
+/* Question Four */
+"question_4" = "Time taken for the transaction to be completed?";
+
+/* Question Four, Answer One */
+"question_4__answer_1" = "Less than 10 minutes";
+
+/* Question Four, Answer Two */
+"question_4__answer_2" = "Less than 30 minutes";
+
+/* Question Four, Answer Three */
+"question_4__answer_3" = "Less than 1 hour";
+
+/* Question Four, Answer Four */
+"question_4__answer_4" = "More than 1 hour";
+
+/* Question Four, Answer Five */
+"question_4__answer_5" = "";
+
+
+/* Question Five */
+"question_5" = "Overall, how would you rate the level of customer service provided?";
+
+/* Question Five, Answer One */
+"question_5__answer_1" = "Excellent";
+
+/* Question Five, Answer Two */
+"question_5__answer_2" = "Very Good";
+
+/* Question Five, Answer Three */
+"question_5__answer_3" = "Good";
+
+/* Question Five, Answer Four */
+"question_5__answer_4" = "Fair";
+
+/* Question Five, Answer Five */
+"question_5__answer_5" = "Poor";
+
+
+/* Question Six */
+"question_6" = "If you have any further feedback and/or suggestions, please mention below:";
+
+
+/* Select Register Company Alert Title */
+"select_registered_company_title" = "Select a Company";
+
+/* Select Register Company Alert Message */
+"select_registered_company_message" = "Please select a registered company.";

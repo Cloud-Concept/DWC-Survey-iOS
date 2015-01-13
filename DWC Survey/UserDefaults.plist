@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>synchronize_survey_preference</key>
+	<true/>
+	<key>synchronize_surveys_names_preference</key>
+	<true/>
+	<key>counter_number_preference</key>
+	<string>1</string>
+</dict>
+</plist>
