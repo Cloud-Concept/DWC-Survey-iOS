@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1C9F8F7B-981D-46F8-B93E-344395283742</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DWC Survey</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4A40BCB8D06983F5586AE9B543DD379FDE214A56</key>
+		<string>https://github.com/Cloud-Concept/DWC-Survey-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DWC Survey.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4A40BCB8D06983F5586AE9B543DD379FDE214A56</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Cloud-Concept/DWC-Survey-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4A40BCB8D06983F5586AE9B543DD379FDE214A56</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4A40BCB8D06983F5586AE9B543DD379FDE214A56</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DWC-Survey-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
